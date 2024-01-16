@@ -1,0 +1,5 @@
+name: JCash
+version: 1.0
+main: jcash.Main
+commands:
+    cash:

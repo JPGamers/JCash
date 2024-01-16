@@ -1,0 +1,8 @@
+Cash-Inicial: 0.0
+
+Mensagens:
+    CashAdd: "&eVocê adicionou &a{cash} &epara o jogador: &f{player}"
+    CashRemove: "&eVocê removeu &a{cash} &edo jogador: &f{player}"
+    CashSet: "&eVocê setou o cash do jogador &f{player} &epara &a{cash}"
+    CashPlayer: "&eCash do &f{player}&e: &a{cash}"
+    Cash: "&eCash: &a{cash}"
