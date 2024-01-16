@@ -1,14 +1,14 @@
-package jcash;
+package jp.dev.jcash;
 
 import java.io.File;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import comandos.CashPlayerCommand;
-import eventos.JoinCash;
-import manager.CashManager;
-import manager.DBManager;
+import jp.dev.jcash.comandos.CashPlayerCommand;
+import jp.dev.jcash.eventos.JoinCash;
+import jp.dev.jcash.manager.CashManager;
+import jp.dev.jcash.manager.DBManager;
 
 public class Main extends JavaPlugin{
 

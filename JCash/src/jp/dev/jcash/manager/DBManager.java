@@ -1,4 +1,4 @@
-package manager;
+package jp.dev.jcash.manager;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -8,7 +8,7 @@ import java.sql.SQLException;
 
 import org.bukkit.entity.Player;
 
-import jcash.Cash;
+import jp.dev.jcash.Cash;
 
 public class DBManager {
 

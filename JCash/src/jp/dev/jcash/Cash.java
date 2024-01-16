@@ -1,4 +1,4 @@
-package jcash;
+package jp.dev.jcash;
 
 import java.util.UUID;
 

@@ -1,13 +1,13 @@
-package comandos;
+package jp.dev.jcash.comandos;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
-import jcash.Cash;
-import jcash.Main;
-import manager.CashManager;
+import jp.dev.jcash.Cash;
+import jp.dev.jcash.Main;
+import jp.dev.jcash.manager.CashManager;
 
 public class CashPlayerCommand implements CommandExecutor{
 

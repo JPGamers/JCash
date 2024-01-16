@@ -1,4 +1,4 @@
-package eventos;
+package jp.dev.jcash.eventos;
 
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
@@ -6,9 +6,9 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerJoinEvent;
 import org.bukkit.event.player.PlayerQuitEvent;
 
-import jcash.Cash;
-import jcash.Main;
-import manager.CashManager;
+import jp.dev.jcash.Cash;
+import jp.dev.jcash.Main;
+import jp.dev.jcash.manager.CashManager;
 
 public class JoinCash implements Listener{
 

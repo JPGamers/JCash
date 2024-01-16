@@ -1,10 +1,10 @@
-package manager;
+package jp.dev.jcash.manager;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.UUID;
 
-import jcash.Cash;
+import jp.dev.jcash.Cash;
 
 public class CashManager {
 
